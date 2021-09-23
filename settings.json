@@ -1,0 +1,126 @@
+{
+    "files.autoSave": "afterDelay",
+    "php.validate.executablePath": "C:/tools/php-8.0.10/php.exe",
+    "php.validate.run": "onType",
+    "phpformatter.additionalExtensions": [
+
+    
+    ],
+    "php.executablePath": "C:/tools/php-8.0.10/php.exe",
+    "editor.largeFileOptimizations": false,
+    "indentRainbow.colors": [
+
+
+        "rgba(255,255,64,0.07)",
+        "rgba(127,255,127,0.07)",
+        "rgba(255,127,255,0.07)",
+        "rgba(79,236,236,0.07)"
+    ],
+    "css.enabledLanguages": [
+
+        "html"
+    ],
+    "css.styleSheets": [
+    
+    ],
+    "emmet.excludeLanguages": [
+
+
+        "markdown"
+    ],
+    "emmet.extensionsPath": [
+        ""
+    ],
+    "git.autofetch": false,
+    "html.format.contentUnformatted": "",
+    "intelephense.files.associations": [
+
+        "*.php",
+        "*.phtml"
+    ],
+    "html-css-class-completion.CSSLanguages": [
+
+        "css",
+        "sass",
+        "scss"
+    ],
+    "phpformatter.arguments": [
+
+        "--level=psr2"
+    ],
+    "[php]": {
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+    },
+    "intelephense.diagnostics.undefinedTypes": false,
+    "intelephense.diagnostics.undefinedFunctions": false,
+    "intelephense.diagnostics.undefinedMethods": false,
+    "intelephense.diagnostics.undefinedProperties": false,
+    "folderTemplates.fileTemplates": {
+
+    },
+    "files.autoSaveDelay": 10,
+    "workbench.iconTheme": "material-icon-theme",
+    "npm.includeDirectories": [
+    
+    ],
+    "npm.exclude": "",
+    "[scss]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+
+        "editor.suggest.insertMode": "replace",
+        "editor.defaultFormatter": "michelemelluso.code-beautifier"
+    },
+    "css.validate": false,
+    "view-in-browser.customBrowser": "chrome",
+    "browser-preview.startUrl": "http://127.0.0.1:8000/",
+    "browser-preview.chromeExecutable": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+   
+    "[json]": {
+        "editor.defaultFormatter": null
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "bracket-pair-colorizer-2.activeScopeCSS": [
+    
+        "borderStyle : solid",
+        "borderWidth : 1px",
+        "borderColor : {color}",
+        "opacity: 0.5"
+    ],
+    "sync.gist": "18183f27c251d52490668a9751082ff8",
+    "[xml]": {
+        "editor.defaultFormatter": "fabianlauer.vs-code-xml-format"
+    },
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+    "phpcs.standard": "",
+    "[html]": {
+        "editor.defaultFormatter": "mohd-akram.vscode-html-format"
+    },
+    "beautify.config": "",
+    // "vsicons.associations.fileDefault.file":
+    
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true,
+    },
+    "[vue]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true,
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true,
+    },
+    "prettier.requireConfig": false,
+    "prettier.useEditorConfig": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "window.zoomLevel": 1,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+}
